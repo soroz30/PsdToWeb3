@@ -132,7 +132,7 @@ a {
 ================*/
 
 .header {
-	background: url(../images/mountains.jpg) no-repeat fixed;
+	background: url(http://res.cloudinary.com/soroz30/image/upload/v1521059295/mountains.jpg) no-repeat fixed;
 	background-size: 100%;
 	height: calc(100vw/1.91);
 	position: relative;
